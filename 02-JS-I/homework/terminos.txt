@@ -1,0 +1,17 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
+
+Variables: Se utilizan para guardar cosas en la memoria. Podemos guardar diferentes tipos de datos en cada variable. Por ejemplo, guardar un tenedor en el cajon de los cubiertos.
+
+Strings: Son una cadena de caracteres, pueden ser letras, numeros, espacios, simbolos. Van entre comillas.
+
+Funciones (argumentos, `return`): Las funciones se utilizan como metodo de reutilizar codigo util. Primero hay que definirla, utilizando la palabra reservada 'function', se le da un nombre, y opcionalmente se le pueden asignar argumentos, que serian valores que utiliza la funcion en su ejecucion. La palabra reservada 'return' declara lo que la funcion devuelve al finalizar, puede ser el resultado de una suma, una concatenacion de strings, etc.
+
+Declaraciones `if`: Nos permiten declarar el flujo que toma nuestro programa a partir de condiciones que se presenten. Se puede traducir al español como 'Si', en el sentido de 'if (x > 10) {...}' si x es mayor a 10, ejecutar el codigo que esta dentro del bloque a continuacion. Tambien existe el 'else' y el 'else if' para cuando queremos aclarar mas de una condicion o respuesta.
+
+Valores booleanos (`true`, `false`): Son valores que se utilizan en operaciones logicas, como preguntar si dos numeros son iguales, true, etc.
