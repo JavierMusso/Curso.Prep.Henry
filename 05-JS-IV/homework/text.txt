@@ -1,0 +1,9 @@
+Objetos: un objeto es una coleccion de valores, y cada valor tiene asociado un nombre para poder encontrarlo con facilidad.
+
+Propiedades: son los valores que estan dentro de un objeto. forman un par entre clave:valor.
+
+Métodos: los metodos son funciones que estan dentro de un objeto.
+
+Bucle `for…in`: es un bucle similar al for clasico, pero es muy util para iterar entre las claves de un objeto, ya que estos no tienen indice.
+
+Notación de puntos vs notación de corchetes: son dos maneras diferentes de acceder a los valores de un objeto. lo bueno de la notacion de corchetes es que podemos usar variables para acceder a los valores.
