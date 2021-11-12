@@ -1,0 +1,3 @@
+`prototype`: el prototipo de un objeto vendria a ser como la plantilla, a partir de esta plantilla podemos crear muchso objetos con mismas keys pero diferentes valores.
+
+_Constructors_ (de Clases): Los constructores son las diferentes maneras de generar objetos, en esta clase se vieron 3 formas diferentes.
